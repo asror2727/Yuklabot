@@ -3,7 +3,7 @@ const youtubedl = require("youtube-dl-exec");
 const fs = require("fs");
 const path = require("path");
 
-const TOKEN = process.env.8745901543:AAEWnXJGafGj-29fnzdi5hNHFKwW6zGs2xo;
+const TOKEN = process.env.BOT_TOKEN;
 
 // BOT NOMINI SHU YERDAN O'ZGARTIRASAN
 const BOT_NAME = "@YuklaUzsbot";
